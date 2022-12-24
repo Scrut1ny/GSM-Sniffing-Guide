@@ -10,6 +10,7 @@
 | ICCID | [Integrated Circuit Card Identifier](https://en.wikipedia.org/wiki/SIM_card#ICCID) |
 | MSID | Gigits Give Network you use |
 |==========|==============================|
+| GSM | [Global System for Mobile Communications](https://en.wikipedia.org/wiki/GSM) |
 | SIM Card | [Subscriber Identity Module Card](https://en.wikipedia.org/wiki/SIM_card) |
 
 ![image](https://user-images.githubusercontent.com/53458032/209445888-a0b016ee-0b05-49d6-a4ab-d14d72f632f7.png)
