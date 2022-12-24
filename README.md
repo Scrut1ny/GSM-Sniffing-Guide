@@ -1,6 +1,5 @@
 ## GSM Sniffing
 
-### Name + Definition
 | `Name` | `Desc.` |
 |-|-|
 | IMEI | [International Mobile Equipment Identity](https://en.wikipedia.org/wiki/International_Mobile_Equipment_Identity) |
