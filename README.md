@@ -36,6 +36,8 @@
   - IMSI-catcher - [Link](https://github.com/Oros42/IMSI-catcher)
 
 ### Equipment
+``GSM 900 / GSM 1800 MHz are used in most parts of the world: Europe, Asia, Australia, Middle East, Africa.``
+``GSM 850 / GSM 1900 MHz are used in the United States, Canada, Mexico and most countries of S. America.``
 - SDR
   - RTL-SDR (65MHz-2300MHz) - [Link](https://www.amazon.com/dp/B06Y1HKLHY)
 - Antenna
