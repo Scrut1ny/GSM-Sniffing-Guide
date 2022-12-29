@@ -64,7 +64,7 @@ sudo apt-get install -y \
     libtool \
     pkg-config \
     build-essential \
-    python-docutils \
+    docutils \
     libcppunit-dev \
     swig \
     doxygen \
