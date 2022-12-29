@@ -49,4 +49,6 @@
 - Catching IMSI Catchers - [Link](https://youtu.be/eivHO1OzF5E)
 
 ### Simple Install (updated)
-`sudo apt-get update && sudo apt install python3-numpy python3-scipy python3-scapy && sudo apt install gr-gsm && `
+```
+sudo apt-get update && sudo apt install python3-numpy python3-scipy python3-scapy && sudo apt install gr-gsm &&
+```
