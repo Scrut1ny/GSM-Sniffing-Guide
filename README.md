@@ -56,6 +56,27 @@ sudo apt install gr-gsm
 git clone https://github.com/Oros42/IMSI-catcher && cd IMSI-catcher
 sudo grgsm_livemon && python3 simple_IMSI-catcher.py --sniff
 
+# GSM Install Error? Try this!
+
+sudo apt-get install -y \
+    cmake \
+    autoconf \
+    libtool \
+    pkg-config \
+    build-essential \
+    python-docutils \
+    libcppunit-dev \
+    swig \
+    doxygen \
+    liblog4cpp5-dev \
+    gnuradio-dev \
+    gr-osmosdr \
+    libosmocore-dev \
+    liborc-0.4-dev \
+    swig
+    
+gnuradio-config-info -v
+
 # Tips
 sudo grgsm_scanner -l    # List your SDR connected.
 sudo grgsm_scanner       # Scan for cell towers near you.
