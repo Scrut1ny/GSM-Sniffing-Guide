@@ -12,6 +12,8 @@
 |==========|==============================|
 | GSM | [Global System for Mobile Communications](https://en.wikipedia.org/wiki/GSM) |
 | SIM Card | [Subscriber Identity Module Card](https://en.wikipedia.org/wiki/SIM_card) |
+| SMS | [Short Message/Messaging Service](https://en.wikipedia.org/wiki/SMS) |
+| SDR | [Software-Defined Radio](https://en.wikipedia.org/wiki/Software-defined_radio) |
 
 ![image](https://user-images.githubusercontent.com/53458032/209445888-a0b016ee-0b05-49d6-a4ab-d14d72f632f7.png)
 
