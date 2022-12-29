@@ -50,7 +50,7 @@
 
 ### Simple Install (updated)
 ```
-sudo apt-get update && apt autoremove -y && apt autoclean -y && apt clean -y && sudo apt install python3-numpy python3-scipy python3-scapy
+sudo apt-get update && apt install python3-numpy python3-scipy python3-scapy
 
 sudo apt install gr-gsm
 
