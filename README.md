@@ -48,13 +48,18 @@
 ### Equipment
 - Catching IMSI Catchers - [Link](https://youtu.be/eivHO1OzF5E)
 
-### Simple Install (updated)
+### GSM Sniffing Install/Setup Guide
 ```
+# Install
 sudo apt-get update && apt install python3-numpy python3-scipy python3-scapy
-
 sudo apt install gr-gsm
-
 git clone https://github.com/Oros42/IMSI-catcher && cd IMSI-catcher
-
 sudo grgsm_livemon && python3 simple_IMSI-catcher.py --sniff
+
+# Tips
+sudo grgsm_scanner -l    # List your SDR connected.
+
+sudo grgsm_scanner       # Scan for cell towers near you.
 ```
+
+
