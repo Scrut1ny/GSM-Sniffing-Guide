@@ -58,7 +58,6 @@ sudo grgsm_livemon && python3 simple_IMSI-catcher.py --sniff
 
 # Tips
 sudo grgsm_scanner -l    # List your SDR connected.
-
 sudo grgsm_scanner       # Scan for cell towers near you.
 ```
 
