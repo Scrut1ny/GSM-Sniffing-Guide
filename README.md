@@ -50,5 +50,5 @@
 
 ### Simple Install (updated)
 ```
-sudo apt-get update && sudo apt install python3-numpy python3-scipy python3-scapy && sudo apt install gr-gsm &&
+sudo apt-get update && apt autoremove -y && apt autoclean -y && apt clean -y && sudo apt install python3-numpy python3-scipy python3-scapy && sudo apt install gr-gsm && git clone https://github.com/Oros42/IMSI-catcher && cd IMSI-catcher && sudo python3 simple_IMSI-catcher.py --sniff
 ```
