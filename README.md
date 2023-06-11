@@ -31,7 +31,7 @@
 
 ### Useful Apps
 - Mobile Software
-  - Android-IMSI-Catcher-Detector - [Link](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
+  - AIMSICD - [Link](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
   - SnoopSnitch - [Link](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/)
 - Desktop Software
   - GsmEvil 2 - [Link](https://github.com/ninjhacks/gsmevil2)
