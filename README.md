@@ -41,7 +41,7 @@
 ``GSM 900 / GSM 1800 MHz are used in most parts of the world: Europe, Asia, Australia, Middle East, Africa.``
 ``GSM 850 / GSM 1900 MHz are used in the United States, Canada, Mexico and most countries of S. America.``
 - SDR
-  - RTL-SDR (65MHz-2300MHz) - [Link](https://www.amazon.com/dp/B06Y1HKLHY)
+  - RTL-SDR (65MHz-2.3GHz) - [Link](https://www.amazon.com/dp/B06Y1HKLHY)
 - Antenna
   - Antenna - [Link](https://www.amazon.com/dp/B07HQJKMBD)
 
@@ -51,8 +51,7 @@
 ### GSM Sniffing Install/Setup Guide
 ```
 # Install
-sudo apt-get update && apt install python3-numpy python3-scipy python3-scapy
-sudo apt install gr-gsm
+sudo apt install python3-numpy python3-scipy python3-scapy gr-gsm
 git clone https://github.com/Oros42/IMSI-catcher && cd IMSI-catcher
 sudo grgsm_livemon && python3 simple_IMSI-catcher.py --sniff
 
@@ -80,6 +79,7 @@ gnuradio-config-info -v
 # Tips
 sudo grgsm_scanner -l    # List your SDR connected.
 sudo grgsm_scanner       # Scan for cell towers near you.
+sudo grgsm_livemon       # Live radio scanning.
 ```
 
 
